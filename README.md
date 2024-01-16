@@ -9,3 +9,7 @@ This project implements a simple carousel using HTML, Tailwind CSS for styling, 
 I have created this simple carsouel.
 The main file is index.html. The css is included in style.css.
 The logic to make carousel functionable I have used JavaScript that you can see in file index.js.
+
+## Sloution
+
+Live URL : https://akshita1812-alt.github.io/carasouel-js/
